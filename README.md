@@ -1,4 +1,6 @@
 # 2048-Solver-Simulator
+***This project was done while taking sophomore CS level courses***
+
 1) Purpose of this Project’
 	- Practice and Learn the use of stacks
 2) Instructions
